@@ -54,7 +54,7 @@ function Account() {
         open={openEmailChange}
         onClose={handleCloseEmailChange}
       />
-      <ModalCustom
+      <ModalCustom  
         title="Password Change"
         description="descrição do modal 1"
         open={openPasswordChange}
